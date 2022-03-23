@@ -11,5 +11,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## Hi there! 
+<br>
+## 📖 About me:
+<br>
+📘 My name is Matheus Ribeiro.
+<br>
+🌎 I living in Brazil, Mogi Mirim, São Paulo.
+<br>
+📚I'm Studying at FATEC Mogi Mirim. I make the third period in technology in development analysis in systems.
+<br>
+💻 My S.O is a linux Ubuntu 20.04, I trade the system in 
+
+<b>I learn about this technologies: </b>
+  
+
 -->
 
