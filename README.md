@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-## Hi there! 
-<br>
-## 📖 About me:
-<br>
-📘 My name is Matheus Ribeiro.
-<br>
+## Hi there! <br> Welcome to my GitHub is a pleasure to receive you! 🙂
+
+<h3> 📖 About me:<h3>
+<h4> 📘 My name is Matheus Ribeiro.
 🌎 I living in Brazil, Mogi Mirim, São Paulo.
 <br>
-📚I'm Studying at FATEC Mogi Mirim. I make the third period in technology in development analysis in systems.
+📚 I'm Studying at FATEC Mogi Mirim. I make the third period in technology in development analysis in systems.
 <br>
-💻 My S.O is a linux Ubuntu 20.04, I trade the system in 
+💻 My S.O is a Linux Ubuntu 20.04. I use this system since January 2022. 
+<br>
+📝 My favorite IDE is VIM, which i use for everything </h4> 
 
 <b>I learn about this technologies: </b>
   
-
 -->
+
 
