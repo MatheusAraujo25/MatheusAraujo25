@@ -57,6 +57,8 @@ heheheh
   <img align="center" alt="" height="40" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div> 
 
+##
+
 #### My Linkedin
   <a href="https://www.linkedin.com/in/matheus-ara%C3%BAjo-5ab64117b/"><img align="center" alt="" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 
