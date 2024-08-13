@@ -26,7 +26,6 @@
  <div> 
 <div align="center">
 <a href="https://github.com/MatheusAraujo25">
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAraujo25&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"/>
 </div>
 </br>
