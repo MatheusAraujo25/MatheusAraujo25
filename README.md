@@ -5,7 +5,6 @@
 ## ```$whoiam ```
  - 📘 My name is Matheus Ribeiro. 
  - 🇧🇷 I'm from Brazil 
- - 📆 I'm 21 years old.
  - 📚 👨‍🎓 Graduations:  
    1. Technical Course in Systems Development. Completion in 2020. 
       - Pedro Ferreira Alves Technical School /Mogi Mirim.
