@@ -2,7 +2,7 @@
    <h1>Welcome to my GitHub is a pleasure to receive you! 😃 </h2>
 </div>
 
-## ```$ whoami ```
+## ```$whoiam ```
  - 📘 My name is Matheus Ribeiro. 
  - 🇧🇷 I'm from Brazil 
  - 📆 I'm 21 years old.
