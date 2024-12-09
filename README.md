@@ -18,7 +18,7 @@
 
   - ## ```/New ```    
    - 👾 Looking for new opportunities to improve my knowledge.
-      -  My linkdin: https://www.linkedin.com/in/matheus-ara%C3%BAjo-5ab64117b/
+      -  My linkdin: https://www.linkedin.com/in/-ribeiro/
  - 🎯 🔥 FOCUS!!
  <div> 
 <div align="center">
