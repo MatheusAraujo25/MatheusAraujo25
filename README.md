@@ -17,8 +17,7 @@
 > ### Technologies: </br>
 > ***#️ Bash · 🐍 Python · 👀 C · ⚓ Kubernetes · 🐳 Docker · ⛵ Istio · 🏗️ Terraform · ☁️ AWS · 🐧 Linux***
 
-</br></br>
-
+</br>
 
 - ## 💻 Profissional expirience:    
 - I worked with a content delivery network (CDN), learning more about troubleshooting and improving my knowledge about security, DDoS, DoS, WAF, firewall... and several other things. A few months later, I developed a script to automate the log downloads and see another oportunity to improve the search system  of an internal wiki, using Docker, Kubernetes, and ElasticSearch.   
