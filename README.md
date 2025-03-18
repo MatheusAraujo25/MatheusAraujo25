@@ -10,6 +10,7 @@
 - ✅ 💪 GYM - I love training.
 - ✅ ✍️ Learn about technology.
 - ✅ 🎵 Listening to music all the time.
+- ✅ 📖 I like reading books.
 - 💙 I love open source.
 </br>
 
