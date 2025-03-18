@@ -27,9 +27,13 @@
 </br>
 
 > [!IMPORTANT]
+> 
+> <div align="center">
+>
 >  ### 🎯 Goal:    
 >  👀 ***Finding a new job.*** </br>
 >  Looking for new opportunities to improve and test my knowledge.
+> </div>
 
 <div align=center> 
  <a href="https://www.linkedin.com/in/-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
