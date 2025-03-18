@@ -1,8 +1,6 @@
  <h1 algin="center"> Welcome to my GitHub! 😃 </h2>
 <img align="right" src="https://github.com/user-attachments/assets/279b4c23-ec4c-4b76-82f9-424dd90d4a5a" width="500"> 
 
-</br></br>
-
 ### About me
 - 👋 Hi, my name is Matheus. I like programming and learning about technologies and their impact. In these last months, I have been studying to become a **DevOps SRE**.
 - ✨  I like so much the Linux, my current setup distro is Debian 
