@@ -28,7 +28,7 @@
 
 > [!IMPORTANT]
 >  ### 🎯 Goal:    
->  👀 ***Finding a new job.***. </br>
+>  👀 ***Finding a new job.*** </br>
 >  Looking for new opportunities to improve and test my knowledge.
 
 <div align=center> 
