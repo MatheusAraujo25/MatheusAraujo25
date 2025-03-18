@@ -3,7 +3,7 @@
 
 ### About me
 - 👋 Hi, my name is Matheus. I like programming and learning about technologies and their impact. In these last months, I have been studying to become a **DevOps SRE**.
-- ✨  I like so much the Linux, my current setup distro is Debian 
+- ✨  I like so much the Linux, my current distro is Debian 
 ### My hobbies:
 - ✅ 👾 Play video games.
 - ✅ 📺 Watch animes and series
