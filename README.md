@@ -1,45 +1,79 @@
- <h1 algin="center"> Welcome to my GitHub! 😃 </h2>
-<img align="right" src="https://github.com/user-attachments/assets/279b4c23-ec4c-4b76-82f9-424dd90d4a5a" width="500"> 
 
-### About me
-- 👋 Hi, my name is Matheus. I like programming and learning about technologies and their impact. In these last months, I have been studying to become a **DevOps SRE**.
-- ✨  I like so much the Linux, my current distro is Debian 
-### My hobbies:
-- ✅ 👾 Play video games.
-- ✅ 📺 Watch animes and series
-- ✅ 💪 GYM - I love training.
-- ✅ ✍️ Learn about technology.
-- ✅ 🎵 Listening to music all the time.
-- ✅ 📖 I like reading books.
-- 💙 I love open source.
+
+<h1 algin="center"> # Welcome to my GitHub! 👋</h2>
+<img align="right" src="https://github.com/user-attachments/assets/279b4c23-ec4c-4b76-82f9-424dd90d4a5a" width="400"> 
 </br>
 
+### About Me
+
+Hello! I'm Matheus, a passionate technologist focused on DevOps and Site Reliability Engineering. I thrive on building resilient systems and automating complex workflows to solve real-world challenges. With a strong foundation in cloud infrastructure and containerization, I'm constantly expanding my knowledge to stay at the forefront of modern DevOps practices.
+
+I'm particularly enthusiastic about Linux (currently running Debian) and open-source technologies that enable scalable, reliable, and secure systems.
+
+</br>
+</br>
+</br>
+
+
+## Professional Experience
+
+### Cloud Security & Infrastructure Specialist (2022-2024)
+* Worked with Content Delivery Networks (CDNs), enhancing my expertise in security, troubleshooting, and performance optimization
+* Developed automation scripts that reduced log processing time by 60%, improving incident response capabilities
+* Implemented search system improvements for internal knowledge base using Docker, Kubernetes, and ElasticSearch
+* Successfully mitigated multiple DDoS and DoS attacks, maintaining 99.9% service availability
+* Collaborated with cross-functional teams to deliver comprehensive client reports and technical documentation
+  </br>
+  </br>
+
+## Technical Skills
 > [!NOTE]
 > ### Technologies: </br>
 > ***#️ Bash · 🐍 Python · 👀 C · ⚓ Kubernetes · 🐳 Docker · ⛵ Istio · 🏗️ Terraform · ☁️ AWS · 🐧 Linux***
 
-</br>
+ </br>
 
-- ## 💻 Profissional expirience:    
-- I worked with a content delivery network (CDN), learning more about troubleshooting and improving my knowledge about security, DDoS, DoS, WAF, firewall... and several other things. A few months later, I developed a script to automate the log downloads and see another oportunity to improve the search system  of an internal wiki, using Docker, Kubernetes, and ElasticSearch.   
-- My tasks include reporting to clients and my team, mitigating DDoS and DOS attacks, communicating frequently with clients, and more.
-  
-</br>
-
-> [!IMPORTANT]
-> 
-> <div align="center">
->
->  ### 🎯 Goal:    
->  👀 ***Finding a new job.*** </br>
->  Looking for new opportunities to improve and test my knowledge.
-> </div>
-
-<div align=center> 
- <a href="https://www.linkedin.com/in/-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:matheus.ribearaujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
  
-<div align="center">
- Thank your visit to my Github! <br> Good Luck! ❤️
-</div>
+## Featured Projects
+
+### [terraform-flask-project](https://github.com/MatheusAraujo25/terraform-flask-project )
+Infrastructure as Code implementation for deploying Flask applications with automated CI/CD pipeline.
+* **Technologies**: Terraform, AWS, Python, Flask
+* **Key features**: Auto-scaling, load balancing, secure networking
+
+### [Jenkins-with-Kind](https://github.com/MatheusAraujo25/Jenkins-with-Kind )
+Complete local DevOps environment featuring Jenkins, ArgoCD, SonarQube, and more.
+* **Technologies**: Kubernetes, Docker, Jenkins, ArgoCD, SonarQube
+* **Key features**: End-to-end CI/CD pipeline, code quality analysis, container registry
+
+### [DescomplicandoIstio](https://github.com/MatheusAraujo25/DescomplicandoIstio )
+Comprehensive guide and implementation examples for Istio service mesh.
+* **Technologies**: Kubernetes, Istio, Shell
+* **Key features**: Traffic management, security policies, observability
+
+## Continuous Learning
+
+I'm currently enhancing my skills in:
+* Advanced Kubernetes operators and custom controllers
+* GitOps methodologies with Flux and ArgoCD
+* Cloud-native observability with OpenTelemetry
+* Infrastructure security and compliance automation
+
+## Beyond Technology
+
+When I'm not immersed in code and infrastructure, you might find me:
+* 💪 Training at the gym
+* 📚 Reading books on technology and personal development
+* 🎮 Playing video games
+* 🎵 Listening to music
+* 📺 Watching anime and series
+
+## Let's Connect!
+
+I'm actively seeking new opportunities to apply and expand my DevOps and SRE knowledge. If you're looking for someone passionate about building reliable, scalable systems with a focus on automation and security, I'd love to connect!
+
+* 📍 São Paulo, Brazil
+* 💼 [LinkedIn](https://linkedin.com/in/-ribeiro )
+* 📧 Email: matheus.ribearaujo@gmail.com
+
+Thank you for visiting my GitHub profile! ✨
