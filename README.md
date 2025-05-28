@@ -21,7 +21,7 @@ I'm particularly enthusiastic about Linux (currently running Debian) and open-so
 * Worked with Content Delivery Networks (CDNs), enhancing my expertise in security, troubleshooting, and performance optimization
 * Developed automation scripts that reduced log processing time by 60%, improving incident response capabilities
 * Implemented search system improvements for internal knowledge base using Docker, Kubernetes, and ElasticSearch
-* Successfully mitigated multiple DDoS and DoS attacks, maintaining 99.9% service availability
+* Successfully mitigated multiple DDoS and DoS attacks, maintaining service availability
 * Collaborated with cross-functional teams to deliver comprehensive client reports and technical documentation
   </br>
   </br>
